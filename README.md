@@ -21,7 +21,7 @@ A simple 3D scanner using an MSP432E401Y microcontroller, VL53L1X time-of-flight
 - Install dependencies:  
   ```bash
   pip install pyserial open3d openpyxl
-  bash```
+  ```
   
 
   <img width="533" height="396" alt="image" src="https://github.com/user-attachments/assets/7ce85ee0-2f90-4109-b112-e448dfd109a8" />
